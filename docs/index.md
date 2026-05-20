@@ -2,7 +2,7 @@
 
 [ほげ](./fuga/hoge.md)
 
-![ほげ](./hoge.png)
+![ほげ](./family_happy_banzai.png)
 
 # レベル0
 
