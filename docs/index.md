@@ -1,5 +1,7 @@
 ほげ[ふが](https://github.com/)ぴよ
 
+[ほげ](./fuga/hoge.md)
+
 # レベル0
 
 ほげ
